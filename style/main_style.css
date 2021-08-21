@@ -1,0 +1,70 @@
+.topMainPage{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-image: url(/imageMainPage/topHeaderPage.jpg);
+    background-position-y: -10px;
+}
+.topMainPage .overlay{
+   display: flex;
+   flex-direction: column;
+   flex-grow: 1;
+   background: linear-gradient(90deg, rgba(138,123,127,1) 0%, rgba(231,223,222,0.20521712102809875) 56%);
+   justify-content: center;
+   color: #aaa;
+}
+
+.topNav{
+    height: 55px;
+    width: 100%;
+    box-shadow: 0 1px 10px #aaaaaa;
+}
+
+.warpper {
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.updated-Container{
+    width: 100%;
+    box-shadow: 0 0 10px black;
+    padding-top: 24px;
+}
+
+
+
+.updated-story-image{
+    width: 100%;
+    height: 350px;
+    margin-bottom: 24px;
+
+}
+
+.topRanking-Component{
+    align-items: center;
+    border: 1px solid black;
+}
+.default-option ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.topView-story{
+    font-size: 18px;
+}
+
+.topView-author{
+    font-size: 14px;
+}
+
+.topview-viewer{
+    font-size: 15px;
+}
+
+.ranking-1_icon{
+    border: 1px solid #dddddd;
+    height: 110px;
+    width: 100%;
+}
+
