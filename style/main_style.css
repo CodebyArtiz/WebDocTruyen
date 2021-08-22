@@ -68,7 +68,7 @@
     width: 100%;
 }
 
-
+/**Chapter**/
 .container1 {
     margin: auto;
     max-width: 1200px;
@@ -81,5 +81,28 @@
     line-height: 1.8;
     color: #373d3f;
     font-family: Roboto,sans-serif;
+}
+#chapter-info .info-left img {
+    display: block;
+    margin: auto;
+    float: left;
+    width: 200px;
+    height: 300px;
+}
+#about-info .info-right {
+    float: right;
+    width: 50%;
+    min-height: 100%;
+}  
+#chapter-info .info-left img {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 300px;
+}  
+#about-info .info-left {
+    float: left;
+    width: 50%;
+    min-height: 100%;
 }
 
