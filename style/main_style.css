@@ -69,11 +69,9 @@
 }
 
 /**Chapter**/
-.container1 {
-    margin: auto;
-    max-width: 1200px;
-    overflow: auto;
-    padding: 0 20px;
+.updated-Container1{
+    width: 100%;
+    padding-top: 24px;
 }
 #chapter-info .chapter-text {
     font-size: 20px;
