@@ -240,6 +240,10 @@
     width: 100%;
     padding-top: 24px;
 }
+.updated-Container1 a{
+    color: #373d3f;
+    line-height: 2;
+}
 #chapter-info .chapter-text {
     font-size: 20px;
     font-weight: 400;
