@@ -392,3 +392,11 @@ h1.boder3 {
   color: rgb(240, 224, 224);
   padding: 10px;
 }
+
+
+@media (max-width:576px){
+    .warpper{
+     width: 95%;
+ }
+}
+
