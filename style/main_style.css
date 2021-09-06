@@ -256,7 +256,10 @@ table {
 .topRanking-background{
 
 }
-
+.kieuchu{
+    font-weight: bold;
+    font-size: 24px;
+}
 .topRanking-Title{
     font-weight: bold;
     text-align: center;
