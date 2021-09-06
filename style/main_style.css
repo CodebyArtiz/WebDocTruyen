@@ -159,7 +159,7 @@ table {
     width: 500px;
     padding: 20px;
     background-color: #D5D8DF !important;
-    opacity: .8;
+    opacity: .9;
 }
 
 .dropdown-distance a:hover {
@@ -177,7 +177,7 @@ table {
     width: 50px;
     padding: 20px;
     background-color: #D5D8DF !important;
-    opacity: .8;
+    opacity: .9;
 }
 
 /* Release Dropdown */
@@ -186,7 +186,7 @@ table {
     width: 30px;
     padding: 20px;
     background-color: #D5D8DF !important;
-    opacity: .8;
+    opacity: .9;
 }
 
 @media (max-width:576px){
