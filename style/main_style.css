@@ -358,7 +358,9 @@ table {
 
 .dropdown:hover .dropdown-content {
     display: block;
-    }
+}
+
+
 div.contentBG {
   background-color:#f5f5f0;
 }
@@ -401,5 +403,11 @@ h1.boder3 {
     .warpper{
      width: 95%;
  }
+}
+
+.dongkengan{
+    margin-top: 0;
+    height: 2px;
+    background-color: red;
 }
 
