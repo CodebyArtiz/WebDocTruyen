@@ -253,9 +253,7 @@ table {
    
 }
 
-.topRanking-background{
 
-}
 .kieuchu{
     font-weight: bold;
     font-size: 24px;
@@ -411,3 +409,123 @@ h1.boder3 {
     background-color: red;
 }
 
+.collapse-container{
+    display: flex;
+
+}
+
+.collapse-container__avatar{
+    flex: 3;
+}
+
+.collapse-container__avatar__image{
+    width: 100%;
+    height: 100%;
+}
+
+.collapse-container__username{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 5;
+}
+
+.nav-item--boder{
+    background-color: #e6e6e6
+}
+
+.nav-item--boder a{
+    color: black;
+    font-size: 14px;
+}
+
+.nav-item--boder li:hover{
+    background-color: #F2ECFF;
+}
+
+.table-image{
+    width: 50px;
+    height: 50px;
+}
+
+.gobal-info{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 22px;
+    line-height: 1.5;
+    margin-top: 0;
+    margin-bottom: 20px;
+
+}
+
+.account-info{
+    font-weight: 500;
+    border-left: 3px solid #ee2c74;
+    padding-left: 10px;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 0 20px;
+    min-height: 27px;
+}
+
+.base-info__modify{
+    display: flex;
+    justify-content: end;
+}
+
+.account-user{
+    border: 1px solid #d9d9d9;
+    margin-left:15px;
+    padding-left: 48px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.user_email{
+    margin-left: 68px;
+}
+
+.user_name{
+    margin-left: 38px;
+}
+
+.following-story{
+    font-weight: 500;
+    border-left: 3px solid #ee2c74;
+    padding-left: 10px;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 0 20px;
+    min-height: 27px;
+    margin-top: 30px;
+}
+
+.see-all{
+    display: flex;
+    justify-content: end;
+    margin-top: 30px;
+}
+
+.following-story__info{
+    padding: 13px 20px;
+    color: #6c763d;
+    margin-bottom: 20px;
+
+}
+
+.activting{
+    background-color: #AEBAC2;
+    border-left: 3px solid #ee2c74;
+}
+
+.box-shadow{
+    box-shadow: -5px 5px 10px gray;
+}
+
+.custom-avatar{
+    width: 60px;
+    height: 60px;
+}
